@@ -15,3 +15,4 @@ Notes:
 8/12/24 --- added Audit Template
 2/23/25 --- Updated for the ArcGIS Python API version 2.4 update
 2/25/25 --- Added optional code to upload results to AGO
+11/11/25 --- Added field for Last Viewed Date
